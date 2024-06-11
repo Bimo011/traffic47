@@ -6,3 +6,4 @@ pip==24.0
 firebase_admin
 streamlit_option_menu
 matplotlib
+streamlit_lottie
